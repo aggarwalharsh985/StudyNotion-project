@@ -41,7 +41,7 @@ const Template = ({ title, desc1, desc2, image, formType, setIsLoggedIn }) => {
 
                 <img 
                     src={image}
-                    alt="image"
+                    alt="main"
                     width={558}
                     height={504}
                     loading="lazy"
